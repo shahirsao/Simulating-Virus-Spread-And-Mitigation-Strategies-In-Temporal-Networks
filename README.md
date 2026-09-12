@@ -18,7 +18,10 @@ then we are left with a functional epidemiological model following with the SIR 
 # Data Sources
 The temporal contact dataset that has been used is the [InVS15 dataset from Sociopatterns](https://sociopatterns.org/datasets.html), an organization which has been collecting such data and freely releasing much of it for public use since 2008. This data was collected at the Institut de Veille Sanitaire across 2 weeks using wearable RFID badges detecting face-to-face proximity, with a resolution of 20s. There are over 78,000 contacts in the dataset. 
 
-
+# Repo Contents
+- Jupyter Notebook containing the code
+- Word document containing the full report and findings
+- Text file containing the dataset
 # References
 CIPD. (2021). CIPD | Employers urged to address high levels of people working when unwell. [online] Available at: https://www.cipd.org/uk/about/news/employers-urged-address-high-levels-presenteeism/.
 Kermack, W.O. and McKendrick, A.G., 1927. A contribution to the mathematical theory of epidemics. Proceedings of the Royal Society A, 115(772), pp.700–721. https://doi.org/10.1098/rspa.1927.0118
